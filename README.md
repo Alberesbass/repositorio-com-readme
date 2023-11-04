@@ -1,2 +1,21 @@
-# repositorio-com-readme
-Repositório criado para aula de README
+# Projeto com README
+Um projeto de teste com um arquivo README 🚀
+
+[<img src="./tela.gif" alt="gif da tela inicial do projeto xyz">]
+
+## Tecnologias utilizadas
+- HTML
+- CSS
+- JS
+
+## Como utilizar
+
+1 - Clone o projeto
+```
+git clone <url do repositório do projeto vai aqui>
+```
+
+2 - Acesse a pasta do projeto
+```
+cd repositorio-com-readme
+```
